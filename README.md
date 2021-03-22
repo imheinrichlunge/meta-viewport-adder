@@ -1,5 +1,5 @@
 # meta-viewport-adder
-**Meta Viewport Adder** was created to solve a problem I had when using my favorite browser *Firefox*, my goal is not to dedicate myself to improve this extension in the short or long term.
+**Meta Viewport Adder** was created to solve a problem I had when using my favorite browser *Firefox*, my goal is not to dedicate myself to add features in the short or long term.
 
 If **you** want to add any feature, improve the code, etc; you can feel free to do so.
 
