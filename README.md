@@ -2,4 +2,10 @@
 
 If **you** want to add any feature, improve the code, etc; you can feel free to do so.
 
+Find it in:
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/meta-viewport-adder/ "Firefox").
+- ~~Chrome~~.
+- ~~Edge~~.
+- ~~Opera~~.
+
 If there is a **native** way to do it in Firefox (such as about:config), please notify me and I will remove it.
