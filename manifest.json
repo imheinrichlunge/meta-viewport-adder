@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Meta Viewport Adder",
+    "version": "1.0",
+    "author": "Heinrich Lunge",
+    "homepage_url": "https://github.com/imheinrichlunge/meta-viewport-adder",
+    "description": "Adds the meta viewport tag only to sites that don't have it.",
+    "icons": {
+        "16": "icons/icon.svg",
+        "32": "icons/icon.svg",
+        "48": "icons/icon.svg",
+        "64": "icons/icon.svg",
+        "96": "icons/icon.svg"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*/*"],
+            "js": ["js/script.js"]
+        }
+    ]
+}
