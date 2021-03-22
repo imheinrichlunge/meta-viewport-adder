@@ -7,9 +7,8 @@ for (let i = 0; i < metaTags.length; i++) {
     }
 }
 if (!isMetaViewportThere) {
-    const headTag = document.head,
-        metaViewport = document.createElement("meta");
+    const metaViewport = document.createElement("meta");
     metaViewport.setAttribute("name", "viewport");
     metaViewport.setAttribute("content", "width=device-width, initial-scale=1.0");
-    headTag.appendChild(metaViewport);
+    document.head.appendChild(metaViewport);
 }
