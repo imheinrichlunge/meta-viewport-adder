@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Meta Viewport Adder",
-    "version": "1.0",
+    "version": "1.1",
     "author": "Heinrich Lunge",
     "homepage_url": "https://github.com/imheinrichlunge/meta-viewport-adder",
     "description": "Adds the meta viewport tag only to sites that don't have it.",
